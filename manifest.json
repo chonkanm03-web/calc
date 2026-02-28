@@ -3,7 +3,7 @@
   "short_name": "Sci Calc",
   "start_url": "./",
   "scope": "./",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#EFEFEF",
   "theme_color": "#00897B",
   "icons": [
